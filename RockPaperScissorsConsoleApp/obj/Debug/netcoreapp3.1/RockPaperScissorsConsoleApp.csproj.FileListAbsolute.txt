@@ -1,0 +1,14 @@
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.exe
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.deps.json
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.runtimeconfig.json
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.runtimeconfig.dev.json
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.dll
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.pdb
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.dll
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.pdb
+C:\Users\steph\OneDrive\Desktop\RockPaperScissorsConsoleApp\RockPaperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPaperScissorsConsoleApp.genruntimeconfig.cache
